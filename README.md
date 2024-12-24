@@ -35,10 +35,12 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Learning the way that JavaScript prototype functions worked
+- Recalling some of the more complex concepts learned in WEB101
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Daniel Leon Silva]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
